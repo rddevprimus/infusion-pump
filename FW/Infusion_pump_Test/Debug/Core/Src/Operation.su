@@ -1,0 +1,5 @@
+Operation.c:20:6:operation	96	static
+Operation.c:58:6:AD101	8	static
+Operation.c:70:6:FMA	56	static
+Operation.c:112:10:Map	32	static
+Operation.c:124:6:PWM	16	static
